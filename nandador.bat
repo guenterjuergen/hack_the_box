@@ -1,5 +1,5 @@
 @echo off
-set iter=100
+set iter=1000
 :loop
 md %userprofile%\Desktop\%iter%
 set /a iter=iter-1 
