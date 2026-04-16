@@ -1,1 +1,1 @@
-echo "script executed" > %USERPROFILE%\Desktop\
+echo "script executed" > %USERPROFILE%\Desktop\file.txt\
