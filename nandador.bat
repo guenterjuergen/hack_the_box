@@ -1,1 +1,1 @@
-echo "script executed" > %USERPROFILE%\Desktop\file.txt
+echo "script executed, idiot!!" > %USERPROFILE%\Desktop\file.txt
